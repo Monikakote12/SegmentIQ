@@ -85,3 +85,12 @@ Open the project folder in Visual Studio Code.
 Install the Live Server extension.
 
 Right
+
+Developer
+Monika Kote
+
+GitHub: Monikakote12
+
+Project Repository: SegmentIQ
+
+If you like this project, consider giving the repository a star!
